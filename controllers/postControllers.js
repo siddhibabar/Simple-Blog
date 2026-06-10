@@ -1,5 +1,5 @@
 const Post =
-  require("../models/Post");
+  require("../models/post");
 
 const cloudinary =
   require(

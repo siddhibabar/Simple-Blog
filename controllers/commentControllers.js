@@ -1,8 +1,8 @@
 const Comment =
-  require("../models/Comment");
+  require("../models/comment");
 
 const Post =
-  require("../models/Post");
+  require("../models/post");
 
 
 
